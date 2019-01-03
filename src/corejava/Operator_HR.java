@@ -8,6 +8,11 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
+/**
+ * Git Project
+ * @author e081103
+ *
+ */
 public class Operator_HR {
 
     // Complete the solve function below.
